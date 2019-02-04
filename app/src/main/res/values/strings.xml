@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="hello_str">Hello</string>
+    <string name="goodbye_str">Goodbye</string>
+</resources>
