@@ -1,3 +1,16 @@
+/*
+    Justin Dupre : z1835941
+             and
+    Brady Goldsworthy : z1816747
+
+    Assignment 1
+    02/08/19
+
+    Simple Hello World Application
+
+ */
+
+
 package z1835941.niu.edu;
 
 import android.app.Activity;
